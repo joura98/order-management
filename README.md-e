@@ -1,1 +1,5 @@
-# Lamp-order-management-system-back-end-
+# Lamp-order-management-system-back-end
+
+1、后端是用flask写的；
+
+2、所有依赖见requirement.txt
