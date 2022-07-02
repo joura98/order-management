@@ -9,7 +9,7 @@ import datetime
 import sys
 import os
 
-url = 'https://tds.hn-1.res.sgmc.sgcc.com.cn/?'
+url = 'https://tds.fj-1.res.sgmc.sgcc.com.cn/?'
 Action = 'DescribeAlarmEventList'
 CurrentPage = 1
 From = 'sas'
